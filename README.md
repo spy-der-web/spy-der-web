@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spy-der-web
 - My name is Obor Joy A
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter, Dart, Algorithms and Data Structures
 - 💞️ I’m looking to collaborate with GOOGLE
 - 📫 How to reach me :oborjoyamara@gmail.com
 
